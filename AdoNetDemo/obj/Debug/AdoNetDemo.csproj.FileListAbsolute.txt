@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\HP\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.btnAdd.resources
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\HP\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
