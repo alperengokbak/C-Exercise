@@ -20,7 +20,7 @@ namespace RepeatInterface
             {
                 Id = 1,
                 Name = "Test",
-                WhereYouLive = "Miami"
+                WhereYouLive = "Miami days"
             };
 
             callMethod.Print(chopper1);
