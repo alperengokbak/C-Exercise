@@ -72,7 +72,7 @@ namespace EntityFrameWorkDemo
                 Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value)
             });
             LoadProdcuts();
-            MessageBox.Show("Deleted!");
+            MessageBox.Show("Deleted!!");
         }
     }
 }
