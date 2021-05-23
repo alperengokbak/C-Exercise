@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe.config
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.pdb
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Form1.resources
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.Properties.Resources.resources
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CopyComplete
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.exe
+C:\Users\HP\source\repos\ConsoleApp1\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.pdb
